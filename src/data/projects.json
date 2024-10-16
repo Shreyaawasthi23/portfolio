@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Blood Bank App",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node","MongoDB"],
+    "source": "https://github.com/Shreyaawasthi23/Blood_bank"
+  },
+  {
+    "title": "Budget Tracker App",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node","MongoDB"],
+    "source": "https://github.com/Shreyaawasthi23/Budget-Tracker-App"
+  },
+  {
+    "title": "Text Summarizer",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["PHP", "Python", "Js","Flask","Bootstrap","NLP"],
+    "source": "https://github.com/Shreyaawasthi23/Text-Summarizer"
+  }
+]
